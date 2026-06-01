@@ -3,3 +3,6 @@
     width: 300px; /* Altera a largura para 300 pixels */
     height: auto; /* Ajusta a altura automaticamente de forma proporcional */
 }
+body{
+    background-color: aquamarine;
+}
