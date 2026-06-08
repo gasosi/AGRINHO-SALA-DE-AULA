@@ -7,15 +7,19 @@
     padding: 15px 25px;
 }
 
+.cartao-frente, .cartao-verso{
+    width: 100%;
+}
+
 .cartao{
     width: 260px;
     height: 200px;
 }
 
 .cartao-imagem{
-    size: 50px;
-    width: 300px; /* Altera a largura para 300 pixels */
-    height: auto; /* Ajusta a altura automaticamente de forma proporcional */
+    
+    width: 100%; 
+    
 }
 body{
     background-color: rgb(151, 228, 236);
