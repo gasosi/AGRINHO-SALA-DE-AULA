@@ -35,3 +35,9 @@ body {
 main{
     flex: 1 ;
 }
+
+footer{
+    background-color: blueviolet;
+    padding: 15px 25px;
+    color: #fff;
+}
