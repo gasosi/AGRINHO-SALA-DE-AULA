@@ -73,3 +73,7 @@ h1 {
     transform: rotateY(180deg);
 }
 
+section{
+    display: flex;
+}
+
